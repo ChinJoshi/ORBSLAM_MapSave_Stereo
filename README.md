@@ -57,7 +57,7 @@ We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) libra
 
 Clone the repository:
 ```
-git clone https://github.com/PWN0N/ORBSLAM_MapSave.git ORB_SLAM2
+git clone git@github.com:simangry/ORBSLAM_MapSave_RGBD.git
 ```
 
 We provide a script `build.sh` to build the *Thirdparty* libraries and *ORB-SLAM2*. Please make sure you have installed all required dependencies (see section 2). Execute:
