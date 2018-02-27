@@ -15,7 +15,7 @@ Add a Save Map Button on The Map Viewer Window.
 
 Either the .bin File or .txt File is ok, It Will Reading the File in a Proper Way Automactilly.
 
-**4.It Can Run without ROS Environment.**
+**4.It Can Run with and without ROS Environment.**
 
 Add a Shut Down Button on The Map Viewer Window.
 
